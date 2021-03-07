@@ -1,5 +1,5 @@
 # sentello
-Sentello is python script that simulates the anti-evasion and anti-analysis techniques used by malware.
+Sentello is a python script that simulates the anti-evasion and anti-analysis techniques used by malware.
 
 For techniques that are difficult to implement on Python, Al-Khaser was converted into a DLL and used. (vm-detector.dll)
 
