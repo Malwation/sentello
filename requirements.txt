@@ -5,5 +5,4 @@ hurry.filesize
 getmac
 optparse
 ctypes
-colorama
 termcolor
